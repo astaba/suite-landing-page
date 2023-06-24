@@ -1,10 +1,10 @@
 # Frontend Mentor - Suite landing page solution
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a58a9af6-cf2a-469a-b413-8313553f2a69/deploy-status)](https://app.netlify.com/sites/graceful-queijadas-947a95/deploys)
+
 This is a solution to the [Suite landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/suite-landing-page-tj_eaU-Ra). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a58a9af6-cf2a-469a-b413-8313553f2a69/deploy-status)](https://app.netlify.com/sites/graceful-queijadas-947a95/deploys)
 
 - [Frontend Mentor - Suite landing page solution](#frontend-mentor---suite-landing-page-solution)
   - [Table of contents](#table-of-contents)
