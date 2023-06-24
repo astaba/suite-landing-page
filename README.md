@@ -9,7 +9,7 @@ This is a solution to the [Suite landing page challenge on Frontend Mentor](http
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Live site](#live-site)
-    - [Mobile Screenshot](#mobile-screenshot)
+    - [Screenshot](#screenshot)
     - [Built with](#built-with)
     - [Here comes the Magic ✨](#here-comes-the-magic-)
   - [Author](#author)
@@ -27,9 +27,12 @@ Users should be able to:
 
 ### Live site
 
-[![Desktop Screenshot](./screenshots/suite-landing-page.png)](https://bawi99.github.io/suite-landing-page/)
+- [Live site](https://graceful-queijadas-947a95.netlify.app/)
+- [Source code](https://github.com/astaba/suite-landing-page)
 
-### Mobile Screenshot
+### Screenshot
+
+[![Desktop Screenshot](./screenshots/suite-landing-page.png)](https://graceful-queijadas-947a95.netlify.app/)
 
 <details>
   <summary><b>Open mobile screenshot</b></summary>
