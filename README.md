@@ -14,6 +14,7 @@ This is a solution to the [Suite landing page challenge on Frontend Mentor](http
     - [Screenshot](#screenshot)
     - [Built with](#built-with)
     - [Here comes the Magic ✨](#here-comes-the-magic-)
+    - [The picture element ✨](#the-picture-element)
   - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -53,7 +54,23 @@ Users should be able to:
 
 To cope with overlapping elements apply `position: relative` without any **offset** and play with **negative margin.**
 
-**Stark and Straight.**
+### The `picture` element
+
+```html
+<picture>
+  <source media="(min-width: 590px)" type="image/webp"
+          srcset="images/image-hero-portrait.webp 1x,
+                  images/image-hero-portrait@2x.webp 2x">
+  <source media="(min-width: 590px)" type="image/png"
+          srcset="images/image-hero-portrait.png 1x,
+                  images/image-hero-portrait@2x.png 2x">
+  <source type="image/webp"
+          srcset="images/image-hero-landscape.webp 1x,
+                  images/image-hero-landscape@2x.webp 2x">
+  <img src="images/image-hero-landscape.png" alt="psychedelic phone"
+       srcset="images/image-hero-landscape@2x.png 2x">
+</picture>
+```
 
 ## Author
 
